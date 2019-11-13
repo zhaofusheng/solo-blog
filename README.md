@@ -10,6 +10,7 @@ zhaofus 的个人博客
 
 ### 最新
 
+* [Windows下配置Sonarqube+Scanner（汉化）](http://blog.zhaofus.com/articles/2019/11/12/1573548925655.html)
 * [世界，你好！](http://blog.zhaofus.com/hello-solo)
 
 

@@ -10,8 +10,11 @@ zhaofus 的个人博客
 
 ### 最新
 
-* [Windows下配置Sonarqube+Scanner（汉化）](http://blog.zhaofus.com/articles/2019/11/12/1573548925655.html)
-* [世界，你好！](http://blog.zhaofus.com/hello-solo)
+* [面试必问之JVM原理](https://blog.zhaofus.com/articles/2019/11/13/1573641138601.html)
+* [宝塔Linux管理工具](https://blog.zhaofus.com/articles/2019/11/13/1573636745775.html)
+* [Linux中zip压缩和unzip解压缩-命令详解](https://blog.zhaofus.com/articles/2019/11/13/1573635427238.html)
+* [JAVA关于Spring 面试题汇总](https://blog.zhaofus.com/articles/2019/11/13/1573632587451.html)
+* [Windows下配置Sonarqube+Scanner（汉化）](https://blog.zhaofus.com/articles/2019/11/12/1573548925655.html)
 
 
 

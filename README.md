@@ -10,6 +10,7 @@ zhaofus 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://blog.zhaofus.com/my-github-repos)
 * [面试必问之JVM原理](https://blog.zhaofus.com/articles/2019/11/13/1573641138601.html)
 * [宝塔Linux管理工具](https://blog.zhaofus.com/articles/2019/11/13/1573636745775.html)
 * [Linux中zip压缩和unzip解压缩-命令详解](https://blog.zhaofus.com/articles/2019/11/13/1573635427238.html)

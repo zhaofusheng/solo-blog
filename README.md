@@ -10,9 +10,8 @@ zhaofus 的个人博客
 
 ### 最新
 
+* [Java 为什么使用抽象类和接口](https://blog.zhaofus.com/articles/2019/12/04/1575452523516.html)
 * [Windows下配置Sonarqube+Scanner（汉化）](https://blog.zhaofus.com/articles/2019/12/04/1575450308016.html)
-* [我在 GitHub 上的开源项目](https://blog.zhaofus.com/my-github-repos)
-* [世界，你好！](https://blog.zhaofus.com/hello-solo)
 
 
 
